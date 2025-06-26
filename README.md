@@ -1,1 +1,1 @@
-# xxx
+# Hand sign detection
